@@ -24,11 +24,11 @@
 </p>
 
 #### Metrics
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=victorfernandesraton&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victorfernandesraton&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandesraton&theme=dark)
 
 #### Contact
-<a href="www.linkedin.com/in/vraton" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-
+<p align="center">
+  <a href="www.linkedin.com/in/vraton" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+</p>

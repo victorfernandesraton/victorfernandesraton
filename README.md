@@ -13,19 +13,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-#### Studing now
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-#### Metrics
-[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victorfernandesraton&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfernandesraton&theme=dark)
 
 #### Contact

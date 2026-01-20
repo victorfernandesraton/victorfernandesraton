@@ -5,3 +5,4 @@
 Found me in:
 - [Mastodon](https://fosstodon.org/@v_raton)
 - [Linkedin](https://www.linkedin.com/in/vraton/)
+- [Blog](https://vraton.dev)
